@@ -18,7 +18,7 @@ const config = {
         name: 'ava',
     },
     mqtt: {
-        host: 'mqtt://137.184.118.182',
+        host: 'mqtt://146.190.1.236',
         port: 1883,
         username: 'n3xus',
         passwd: 'n3xus'
